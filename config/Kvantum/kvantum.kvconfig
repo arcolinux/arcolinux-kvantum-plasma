@@ -1,2 +1,2 @@
-[Applications]
-ArcDark=virtualbox, simplescreenrecorder
+[General]
+theme=ArcDark
